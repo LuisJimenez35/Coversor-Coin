@@ -1,4 +1,4 @@
-# 💻📋 Coversor Coin
+# 💻🏧 Currency Coin
 ## 💬Introduction:
 This small project is the second Challenge of the Group 5 Oracle One Next Education study program.
 
