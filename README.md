@@ -7,11 +7,11 @@ It is a small currency converter that exchanges the "Colon" currency for five ot
 In this occasion, the Devs were asked to create a currency converter using the Java language. The features requested by our client are the following:
 ## 📝Requirements for the encryption project
 The currency converter must:
- - Convert from your country's currency to Dollar
- - Convert from your country's currency to Euros
- - Convert from your country's currency to British Pounds
- - Convert from your country's currency to Japanese Yen
- - Convert from your country's currency to South Korean Won
+ - Convert from Colones to Dollar
+ - Convert from Colones to Euros
+ - Convert from Colones to British Pounds
+ - Convert from Colones to Japanese Yen
+ - Convert from Colones to South Korean Won
 
 Remembering that it should also be possible to convert inversely.
 ## 💻Software Available:
