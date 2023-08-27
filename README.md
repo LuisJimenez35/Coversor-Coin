@@ -22,6 +22,11 @@ Remembering that it should also be possible to convert inversely.
     - IOException
     - JOptionPane
     - Absolute Layout
+   
+## Functionality sample
+![2023-08-26-18-53-17](https://github.com/LuisJimenez35/Coversor-Coin/assets/82769778/047e8f01-3fb5-44d3-856b-48fc0054be68)
+
+
 ## 🎖️The badge for completing Challenge One
 ![cms_files_10224_1671211831Prancheta_8](https://github.com/LuisJimenez35/Coversor-Coin/assets/82769778/1d3074cf-1390-4f9e-a6b8-874aa074836e)
 
